@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cheking2Pow", "cheking2Pow\cheking2Pow.csproj", "{C081EA75-E5CE-460E-A502-3C9CC29B9A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C081EA75-E5CE-460E-A502-3C9CC29B9A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C081EA75-E5CE-460E-A502-3C9CC29B9A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C081EA75-E5CE-460E-A502-3C9CC29B9A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C081EA75-E5CE-460E-A502-3C9CC29B9A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E682EE-498B-4C5C-9408-5D6514D96671}
+	EndGlobalSection
+EndGlobal
